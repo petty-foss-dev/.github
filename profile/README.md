@@ -6,8 +6,8 @@ So I decided to be petty: I'm building useful alternatives and making them free 
 
 ## The apps
 
-- **[Enve Keep](https://github.com/petty-foss-dev/Enve-Keep)** — Keep receipts, warranties, subscriptions, and documents organized on your device. iOS and Android.
-- **[Enve Memory](https://github.com/petty-foss-dev/Enve-Memory)** — Save links, notes, files, and decisions in a local-first library shared with the AI tools you choose to use.
+- **[petty: Tracker](https://github.com/petty-foss-dev/Petty-Tracker)** — Track receipts, warranties, subscriptions, and documents on your device. iOS and Android.
+- **[Petty Memory](https://github.com/petty-foss-dev/Petty-Memory)** — Save links, notes, files, and decisions in a local-first library shared with the AI tools you choose to use.
 - **[MemoryManager](https://github.com/petty-foss-dev/MemoryManager)** — Monitor memory, CPU, and storage on macOS and take action before memory pressure becomes a problem.
 
 All three projects are free and open source under the AGPL-3.0 license.
