@@ -1,6 +1,6 @@
 # Petty FOSS
 
-Hi, I'm Isaac. I'm tired of people prompting out the same app we've all seen a hundred times, slapping a subscription on it, and acting like they invented something.
+Hi, I'm a petty bitch, and I'm tired of people prompting out the same app we've all seen a hundred times, slapping a subscription on it, and acting like they invented something.
 
 So I'm doing the petty version. I'll make the apps I want and give them away. Free and open source. Use them if they're useful. Fork them if you can do better. I'm just sick of being asked for eight bucks a month to use a glorified checklist.
 
