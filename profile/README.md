@@ -43,6 +43,10 @@ I didn't make these. Go give their creators some credit.
 - **[Enve Book Player](https://github.com/opisaac9001/Enve-Book-Player):** My separate Enve project for audiobooks, ebooks, comics, and podcasts on iOS and Android. Free and open source under AGPL-3.0-only.
 - **[Absorb](https://github.com/pounat/absorb):** A free, open-source Audiobookshelf player for Android and iOS. Made by Nathan Poulson.
 
+## Got one for me?
+
+Want me to make something? Seen somebody on Reddit trying to charge for a crappy AI wrapper and wish there were a free, open-source version? [Send me the post or the idea](https://github.com/petty-foss-dev/.github/issues/new). If somebody already made a good one, I'll point you to it. If I can't find one, I'll make it.
+
 ## Want to support the work?
 
 If you use one of my apps and want to [buy me a coffee](https://buymeacoffee.com/envebookplayer), awesome. If you're using one of the other apps linked here, go support its creator instead. They did the actual work. I just linked to it.
