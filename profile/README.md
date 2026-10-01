@@ -1,10 +1,33 @@
 # Petty FOSS
 
+
 Hi, I'm a petty bitch, and I'm tired of people prompting out the same app we've all seen a hundred times, slapping a subscription on it, and acting like they invented something.
 
 So I'm doing the petty version. I'll make the apps I want and give them away. Free and open source. Use them if they're useful. Fork them if you can do better. I'm just sick of being asked for eight bucks a month to use a glorified checklist.
 
 And if somebody else already made a better free app, I'll link to theirs. The world doesn't need another shitty AI wrapper just because I could make one.
+
+## A quick note about AI
+
+I'd like to be clear about something: I don't hate AI. I don't even have a problem with AI-assisted coding.
+
+I actually think it's frealomg awesome that someone with an idea can now build something they never would have had the time, money, or technical knowledge to build a few years ago. That's a good thing. More people being able to make stuff is a good thing.
+
+Use AI. Vibe code. Learn as you go. Make weird crap. Make useful shit. Make something just because you wanted it to exist. I genuinely do not care how much AI you used to get there.
+
+What I have a problem with is people using that lowered barrier to churn out the same half-assed app that's already been made fifty times, wrapping it in a pretty landing page, charging $7.99 a month for it, and acting like they've built the next big thing.
+
+Especially when the entire app is basically a database, three buttons, and an OpenAI API call.
+
+AI making something easier to build doesn't automatically mean it needs to become a business. Not every tiny utility needs a subscription. Not every weekend project needs a pricing page. And not everything somebody prompts into existence needs to be marketed like they just disrupted an industry.
+
+If AI lets you make something useful, that's great.
+
+If you want to charge money because you're actually providing something that costs money to run, takes serious ongoing work, or provides enough value that people are happy to pay for it, also great.
+
+But charging a recurring subscription for a glorified checklist, timer, QR code generator, or thin wrapper around somebody else's API just because you can?
+
+That's the part I'm being petty about.
 
 ## Stuff I made
 
@@ -66,6 +89,13 @@ I didn't make these. Go give their creators some credit.
 - **[Storyteller](https://gitlab.com/storyteller-platform/storyteller):** Sync an ebook with its audiobook so you can read and listen along together. Self-hosted.
 
 ## Got one for me?
+
+Want me to make something? Seen somebody on Reddit trying to charge for a crappy AI wrapper and wish there were a free, open-source version? [Send me the post or the idea](https://github.com/petty-foss-dev/Petty-Suggestions/issues/new?template=app-suggestion.md). If somebody already made a good one, I'll point you to it. If I can't find one, I'll make it.
+
+## Want to support the work?
+
+If you use one of my apps and want to [buy me a coffee](https://buymeacoffee.com/envebookplayer), awesome. If you're using one of the other apps linked here, go support its creator instead. They did the actual work. I just linked to it.
+"""
 
 Want me to make something? Seen somebody on Reddit trying to charge for a crappy AI wrapper and wish there were a free, open-source version? [Send me the post or the idea](https://github.com/petty-foss-dev/Petty-Suggestions/issues/new?template=app-suggestion.md). If somebody already made a good one, I'll point you to it. If I can't find one, I'll make it.
 
