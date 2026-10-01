@@ -29,6 +29,13 @@ I didn't make these. Go give their creators some credit.
 - **[Reactive Resume](https://github.com/reactive-resume/reactive-resume):** Make a resume without paying a subscription.
 - **[Skulpt](https://github.com/skulptapp/skulpt):** Plan and log workouts on iOS, Android, and Apple Watch.
 - **[Yes-Brainer](https://github.com/trekhleb/yesbrainer):** Bounce an idea off several AI models. Bring your own API keys or run Ollama locally. The app is free; model providers may charge you.
+- **[QR Code Generator](https://github.com/xhluca/qr-code):** Make a static QR code without an account or subscription. The destination is baked in, so you can't change it after printing.
+- **[HeyForm](https://github.com/heyform/heyform):** Make forms and surveys. Host it yourself instead of paying for another form builder.
+- **[LittleLink](https://github.com/sethcottle/littlelink):** Put your links on one page you control. It needs a bit of HTML editing and somewhere to host it.
+- **[Shlink](https://github.com/shlinkio/shlink):** Short links and redirects on your own domain. You run the server.
+- **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane):** Make invoices and keep track of clients and payments. Self-hosted.
+- **[Umami](https://github.com/umami-software/umami):** See your website traffic without handing it to an analytics SaaS. Self-hosted.
+- **[Easy!Appointments](https://github.com/alextselegidis/easyappointments):** Let people book appointments through a service you host yourself.
 
 ## Audiobook and ebook players
 
