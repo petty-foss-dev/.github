@@ -36,6 +36,7 @@ I didn't make these. Go give their creators some credit.
 - **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane):** Make invoices and keep track of clients and payments. Self-hosted.
 - **[Umami](https://github.com/umami-software/umami):** See your website traffic without handing it to an analytics SaaS. Self-hosted.
 - **[Easy!Appointments](https://github.com/alextselegidis/easyappointments):** Let people book appointments through a service you host yourself.
+- **[Esiana](https://github.com/Esiana-ttrpg/esiana-core):** Run D&D and other tabletop campaigns with a self-hosted world wiki, maps, timelines, and player discoveries.
 
 ## Audiobook and ebook players
 
