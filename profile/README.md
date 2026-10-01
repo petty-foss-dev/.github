@@ -33,5 +33,5 @@ I didn't make these. Go give their creators some credit.
 ## Audiobook and ebook players
 
 - **[AudioBooth](https://github.com/AudioBooth/AudioBooth):** Listen to audiobooks and read EPUBs or PDFs from Audiobookshelf on iOS. Free and open source, made by the AudioBooth developer.
-- **[Enve Book Player](https://github.com/opisaac9001/Enve-Book-Player):** My separate Enve project for audiobooks, ebooks, comics, and podcasts on iOS and Android. It's free and source-available under a noncommercial license, so it isn't FOSS.
+- **[Enve Book Player](https://github.com/opisaac9001/Enve-Book-Player):** My separate Enve project for audiobooks, ebooks, comics, and podcasts on iOS and Android. Free and open source under AGPL-3.0-only.
 - **[Absorb](https://github.com/pounat/absorb):** A free, open-source Audiobookshelf player for Android and iOS. Made by Nathan Poulson.
