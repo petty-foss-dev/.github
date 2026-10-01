@@ -15,7 +15,7 @@ And if somebody else already made a better free app, I'll link to theirs. The wo
 
 All four projects are free and open source under the AGPL-3.0 license.
 
-If one of these Petty apps somehow takes off, I'll move it into my Enve app ecosystem and give it more time and attention. It'll still be free and open source forever. It just means people actually want it, so I'll put more work into it.
+If one of these Petty apps somehow takes off, I'll move it into my [Enve app ecosystem](https://envemedia.com) (the apps that I actually spend my time on and I've put tons of work into) and give it more time and attention. It'll still be free and open source forever. It just means people actually want it, so I'll put more work into it.
 
 ## Stuff other people made that's already good
 
