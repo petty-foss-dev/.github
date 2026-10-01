@@ -45,7 +45,7 @@ I didn't make these. Go give their creators some credit.
 
 ## Got one for me?
 
-Want me to make something? Seen somebody on Reddit trying to charge for a crappy AI wrapper and wish there were a free, open-source version? [Send me the post or the idea](https://github.com/petty-foss-dev/.github/issues/new). If somebody already made a good one, I'll point you to it. If I can't find one, I'll make it.
+Want me to make something? Seen somebody on Reddit trying to charge for a crappy AI wrapper and wish there were a free, open-source version? [Send me the post or the idea](https://github.com/petty-foss-dev/Petty-Suggestions/issues/new?template=app-suggestion.md). If somebody already made a good one, I'll point you to it. If I can't find one, I'll make it.
 
 ## Want to support the work?
 
