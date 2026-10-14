@@ -34,11 +34,12 @@ That's the part I'm being petty about.
 - **[petty: Tracker](https://github.com/petty-foss-dev/Petty-Tracker):** Keep receipts, warranties, subscriptions, and documents on your device. iOS and Android.
 - **[petty: Jobs](https://github.com/petty-foss-dev/Petty-Jobs):** Track customers, completed jobs, payments, and what is still owed. In development for iPhone, Android, and the browser.
 - **[petty: set](https://github.com/petty-foss-dev/Petty-Set):** Plan 3D sets, camera shots, lighting, and production work in a local-first browser editor. In development.
+- **[petty: Reader](https://github.com/petty-foss-dev/Petty-Reader):** Read articles and PDFs like a book in Chrome. Covers, fonts, night light, ambience, and a coffee cup, all free. [How to install it](https://envemedia.com/petty/reader/).
 - **[Petty Memory](https://github.com/petty-foss-dev/Petty-Memory):** Keep links, notes, files, and decisions in one place. Share them with the AI tools you choose.
 - **[Petty: Homelab](https://github.com/petty-foss-dev/Petty-Homelab):** Keep an eye on Unraid and your self-hosted services from an iPhone or iPad.
 - **[MemoryManager](https://github.com/petty-foss-dev/MemoryManager):** See what's eating your Mac's memory, CPU, and storage.
 
-All six projects are free and open source under AGPL-3.0 licenses.
+All seven projects are free and open source under AGPL-3.0 licenses.
 
 If one of these Petty apps somehow takes off, I'll move it into my [Enve app ecosystem](https://envemedia.com) (the apps that I actually spend my time on and I've put tons of work into) and give it more time and attention. It'll still be free and open source forever. It just means people actually want it, so I'll put more work into it.
 
