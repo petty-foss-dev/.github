@@ -37,9 +37,10 @@ That's the part I'm being petty about.
 - **[petty: Reader](https://github.com/petty-foss-dev/Petty-Reader):** Read articles and PDFs like a book in Chrome. Covers, fonts, night light, ambience, and a coffee cup, all free. [How to install it](https://envemedia.com/petty/reader/).
 - **[Petty Memory](https://github.com/petty-foss-dev/Petty-Memory):** Keep links, notes, files, and decisions in one place. Share them with the AI tools you choose.
 - **[Petty: Homelab](https://github.com/petty-foss-dev/Petty-Homelab):** Keep an eye on Unraid and your self-hosted services from an iPhone or iPad.
+- **[petty: Optician](https://github.com/petty-foss-dev/Petty-Optician):** Study for the ABO and NCLE optician exams on iPhone. Sourced study guides, practice tests, flashcards, and hands-on trainers, plus California licensing steps.
 - **[MemoryManager](https://github.com/petty-foss-dev/MemoryManager):** See what's eating your Mac's memory, CPU, and storage.
 
-All seven projects are free and open source under AGPL-3.0 licenses.
+All eight projects are free and open source under AGPL-3.0 licenses.
 
 If one of these Petty apps somehow takes off, I'll move it into my [Enve app ecosystem](https://envemedia.com) (the apps that I actually spend my time on and I've put tons of work into) and give it more time and attention. It'll still be free and open source forever. It just means people actually want it, so I'll put more work into it.
 
